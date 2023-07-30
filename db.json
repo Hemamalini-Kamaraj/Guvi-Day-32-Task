@@ -1,0 +1,34 @@
+[
+ {
+  "id": "1",
+  "title": "Half girlfriend",
+  "author": "Chetan Bhagat",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpnN1mQqlXMw3K0yhs4F6pBREhBABJPQ8Ts6-gT33baa0e75mT",
+  "genere": "Fiction, Romance",
+  "pages": 280
+ },
+ {
+  "id": "2",
+  "title": "What Young India Wants",
+  "author": "Chetan Bhagat",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDF0LO6qa4Scm46kemBxwg_zkzpkge_OKnmq13f77DwtHwf6Nl",
+  "genere": "Non-Fiction",
+  "pages": 35
+ },
+ {
+  "id": "3",
+  "title": "Ponniyin Selvan",
+  "author": "Kalki Krishnamurthy",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSui0NvmJuRZf_4BYkwIYwaZxq088A__WmjkygfBYLI_2FXvbiL",
+  "genere": "Historical Non-Fiction",
+  "pages": 1000
+ },
+ {
+  "id": "4",
+  "title": "The Ministry Of Utmost Happiness",
+  "author": "Arundhati Roy",
+  "image": "https://upload.wikimedia.org/wikipedia/en/b/bf/The_Ministry_of_Utmost_Happiness.jpg",
+  "genere": "Fiction Romance",
+  "pages": 449
+ }
+]

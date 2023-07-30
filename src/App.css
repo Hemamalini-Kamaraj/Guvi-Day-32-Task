@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.register .card {
+  margin-top: 50px;
+  margin-bottom: auto;
+  width: 400px;
+  background-color: white !important;
+  justify-content: center;
+  align-content: center;
+}
+
+.btn {
+  color: white;
+  background-color: #a0b0bd !important;
+  font-weight: bold;
+}
+
+.btn:hover {
+  color: black;
+  background-color: #a0b0bd !important;
+}
