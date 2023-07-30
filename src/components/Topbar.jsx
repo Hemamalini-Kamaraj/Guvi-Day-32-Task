@@ -9,7 +9,7 @@ function Topbar() {
             <div  className="container px-4 px-lg-5">
                 <div className="d-flex flex-start justify-content-center p-2 fw-bold" id="navbarSupportedContent">
                     <span className="navbar-brand fw-bold">
-                        <h1>Library Management</h1>
+                        <h2>Library Management</h2>
                     </span>
                 </div>
                 <div className="d-flex justify-content-center p-2 fw-bold" id="navbarSupportedContent">

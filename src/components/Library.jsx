@@ -53,9 +53,9 @@ function Library() {
             {
                 isLoading ? (<span> Loading . . .</span>) : (
                     <div className="card shadow mb-4 mt-4">
-                        <div className="card-header py-3">
+                        {/* <div className="card-header py-3">
                             <h6 className="m-0 font-weight-bold text-center">Book Data Details</h6>
-                        </div>
+                        </div> */}
                         <div className="card-body">
                             <div className="table-responsive">
                                 <table className="table table-bordered" id="dataTable" width="100%" cellspacing="0">

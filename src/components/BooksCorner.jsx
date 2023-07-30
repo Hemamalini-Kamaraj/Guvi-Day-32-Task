@@ -47,7 +47,7 @@ function BooksCorner() {
                 </div>
                 {
                     isLoading ? (<span> Loading . . .</span>) : (
-                        <div className="card shadow mb-4">
+                        <div className="card shadow mb-4 bookCard">
                             <div className="card-body">
                                 <div className='container'>
                                     <div className='row'>

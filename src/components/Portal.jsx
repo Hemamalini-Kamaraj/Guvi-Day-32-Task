@@ -5,8 +5,7 @@ import Topbar from './Topbar';
 
 function Portal() {
     return (
-        <div id="wrapper">
-            
+        <div id="wrapper">  
             <div id="content-wrapper" className="d-flex flex-column">
                 <div id="content " >
                     <Topbar></Topbar>
